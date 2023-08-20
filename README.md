@@ -1,6 +1,6 @@
 # Python Tips & Tricks
 
-Quelques trucs et astuces sur Python ...
+Quelques trucs et astuces sur Python.
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
@@ -8,16 +8,19 @@ Quelques trucs et astuces sur Python ...
 
 ## Documents utiles
 
-* [ETL Job](./scripts/etl_job.py) - An overview of Pyspark library
-* [Check Access/Modification/Creation time](./scripts/FileProperties.py) - get Acces/Modification/Creation time of files
-* [Reading Excel files in Python](./scripts/ExcelFileReader.py) - Different methods to read data in Excel, CSV or Pickle format 
+* [ETL Job](./scripts/etl_job.py) - Un aperçu de la libraire PySpark
+* Vérifier les propriétés [Acces / Modification / Création](./scripts/FileProperties.py) d'un fichier - Obtenir les heures d'accès, de modification ou de création d'un fichier
+* Lire des fichiers [Excel](./scripts/ExcelFileReader.py) - Différentes méthodes pour lire des données provenant de fichiers Excel, CSV ou au format Pickle 
 
 ## Liens utiles
 
 * [PySpark](https://pypi.org/project/pyspark/) - Apache Spark Python API
-* [Design Patterns](https://refactoring.guru/design-patterns/python) - The catalog of Python examples
-* Play with [TQDM](https://tqdm.github.io/), a smart progress meter
-* [Twitter Bot with Tweepy](https://realpython.com/twitter-bot-python-tweepy/)
+* [Design Patterns](https://refactoring.guru/design-patterns/python) - Une bible des design-pattern
+* [TQDM](https://tqdm.github.io/) - Une barre de progression bien utile lorsque l'on a des traitements dont il faut restituer l'avancement
+* Bot Twitter avec with [Tweepy](https://realpython.com/twitter-bot-python-tweepy/) - Tweepy comprend un ensemble de classes et de méthodes qui permettent d'interagir avec l'API de Twitter
+* [Pandas](https://pandas.pydata.org/) - Outil d'analyse et de manipulation de données open source
+* [Schedule](https://schedule.readthedocs.io/en/stable/) - Ordonnancement de batch Python
+* [unittest](https://docs.python.org/3/library/unittest.html) - Tests unitaires en Python
 
 ## Réalisé avec
 
